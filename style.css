@@ -1,0 +1,367 @@
+body {
+    background-color: #0a0a0a;
+    color: #ffffff;
+    font-family: "Bakbak One", "sanserifs";
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+}
+.header-bg {
+  background-color: #040B11;
+  align-items: center;
+}
+.swich-btn {
+  background: #141B22;
+  padding: 3px;
+  border-radius: 5px;
+  
+}
+.discord-link{
+  background: #141B22;
+  padding: 3px 5px;
+  border-radius: 5px;
+}
+.connect-btn {
+  background-color: #21E786;
+  padding: 3px 5px;
+  border-radius: 5px;
+}
+.lead-text{
+  font-weight: 300;
+    padding: 0px 371px;
+    font-size: 16px;
+}
+.navbar {
+    padding: 1rem 0;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.navbar-brand .logo {
+    width: 170px;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+    margin: 0 10px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.discord-link, .connect-btn {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+.discord-link .icon, .connect-btn .icon {
+    width: 20px;
+    margin-right: 5px;
+}
+
+.connect-btn {
+    /* background-color: #00c853;
+    border: none;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    color: #ffffff; */
+}
+.content-wrap {
+  position: absolute;
+  bottom: 72px;
+  text-align: center;
+  width: 100%;
+
+}
+.step {
+  background: #141B22;
+
+  /* background: linear-gradient(to bottom right, #21E786 100,#21E786 0); */
+  padding: 10px 0px;
+ height: 210px;
+ font-size: 24px;
+ text-align: center;
+
+ 
+
+}
+.slider-section {
+  background: url('../Project images/BG.png');
+}
+
+.connect-btn:hover {
+    background-color: #00b140;
+}
+.nft-collection {
+    padding: 60px 0;
+}
+
+.nft-collection h1 {
+    font-size: 22px;
+    margin-top: 20px;
+    color: #21E786;
+}
+
+.nft-collection p.lead {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.nft-collection .btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 25px;
+}
+.how-it-works {
+    padding: 60px 0;
+}
+
+.how-it-works h1 {
+    font-size:24px;
+    margin-bottom: 40px;
+}
+
+.how-it-works .step img {
+    max-width: 80px;
+}
+
+.how-it-works .step h4 {
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.how-it-works .step p {
+    font-size: 1.1rem;
+}
+.hot-collection {
+    padding: 60px 0;
+}
+
+.hot-collection h2 {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+}
+
+.collection-item {
+    background-color: #141B22;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.collection-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.story-section {
+    padding: 60px 0;
+  }
+  
+  .section-title {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .section-description {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  .stats-row {
+    margin: 30px 0;
+  }
+  
+  .stat-box {
+    background: #0d0d0d;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  .stat-value {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .read-more-btn {
+    background-color: #00ff00;
+    border-color: #00ff00;
+    color: #0d0d0d;
+    margin: 20px 0;
+    padding: 10px 20px;
+  }
+  
+  .benefits-row {
+    margin-top: 40px;
+  }
+  
+  .benefit-box {
+    background: #1a1a1a;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  .benefit-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #00ff00;
+  }
+  
+  .benefit-box h4 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .benefit-box p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  .partners-section {
+    padding: 60px 0;
+  }
+  
+  .section-title {
+    font-size: 44px;
+    font-weight: bold;
+    color: 
+    #21E786;
+    margin-bottom: 40px;
+  }
+  
+  .partners-row {
+    margin-bottom: 20px;
+  }
+  
+  .partner-box {
+    /* background: #1a1a1a; */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    height: 60px;
+    width: 162px;
+  }
+  
+  .partner-box img {
+   
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+.img-size{
+  width: 92px;
+  height: 72px;
+
+}
+.colour{
+color: #21E786;
+font-size: 220px;
+
+}
+.hot{
+  margin-right: 775px;
+  
+}
+.Near{
+   /* background: #1a1a1a; */
+   border-radius: 10px;
+   padding: 20px;
+    margin: 10px;
+  
+}
+.Binance{
+     background: #1a1a1a;
+     border-radius: 10px;
+     padding: 20px;
+      margin: 10px;
+    
+}
+.navbar {
+  justify-content: center;
+}
+.navbar-nav {
+  justify-content: center;
+  width: 100%;
+}
+.navbar-brand {
+  position: absolute;
+  font-family: "Bakbak One";
+  transform: translateX(-20%);
+}
+.partners-section {
+  padding: 60px 0;
+}
+
+.story-title {
+  font-size: 44px;
+  font-family: "Bakbak One";
+  color:white
+}
+
+.story-text {
+  font-size: 18px;
+  color: #555;
+
+}
+
+.stats {
+  margin: 30px 0;
+}
+
+.stat-item {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.stat-item span {
+  font-size: 1.2em;
+  color:white;
+}
+
+.stat-item h3 {
+  font-size: 2em;
+  font-weight: bold;
+  color:white;
+}
+
+.read-more {
+  margin-top: 20px;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.feature-item {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #222;
+  color: #fff;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.feature-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.feature-text {
+  font-size: 1em;
+  color: #ccc;
+}
+
+@media (max-width: 767.98px) {
+  .feature-item {
+      margin-bottom: 20px;
+  }
+}
